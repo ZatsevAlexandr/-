@@ -1,4 +1,5 @@
 #include sdt.h
+//учебная программа
 main()
 {int a, b;
 cout << :enter a and b";
